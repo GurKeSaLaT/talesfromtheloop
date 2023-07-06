@@ -1,0 +1,1 @@
+Neue Sternwarte auf dem Dach der Schule gesponsort von [[Königskron]]
