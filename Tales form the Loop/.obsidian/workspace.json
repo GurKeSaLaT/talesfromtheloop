@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tagebuch/22.05..md",
+                "file": "Tagebuch/Do 22.05..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "526a422c2bf0be45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lena.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tagebuch/22.05..md",
+                "file": "Tagebuch/Do 22.05..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,9 +114,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tagebuch/22.05..md",
+                "file": "Tagebuch/Do 22.05..md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tagebuch/22.05..md"
+                "file": "Tagebuch/Do 22.05..md"
               }
             }
           }
@@ -138,15 +150,15 @@
   },
   "active": "3160f1bfc2955b31",
   "lastOpenFiles": [
-    "Markus 'Tom' Thomas.md",
-    "Tagebuch/22.05..md",
-    "Friedrich 'Pysikkaiser' König.md",
-    "Klasse 7a.md",
-    "Hans-Peter Fischer.md",
-    "Sandra Fischer.md",
-    "Daniel Meyer.md",
-    "Timm.md",
-    "Tankstelle.md",
-    "Michael 'Miko'.md"
+    "IEX-4Z32.md",
+    "Tagebuch/Do 22.05..md",
+    "Lena.md",
+    "Maja Möller.md",
+    "Gregor Möller.md",
+    "Michael 'Miko'.md",
+    "Benjamin.md",
+    "Limburgerhof.md",
+    "Egon Grünschnabel.md",
+    "Hans-Peter Fischer.md"
   ]
 }

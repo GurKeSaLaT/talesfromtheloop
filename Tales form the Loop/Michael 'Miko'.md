@@ -2,7 +2,7 @@ Alter:
 
 Familie:
 - Mutter: 
-- Vater: Benjamin 
+- Vater: [[Benjamin]] 
 
 Schule: [[IGS]] [[Klasse 7b]]
 

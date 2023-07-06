@@ -1,0 +1,1 @@
+Steht unter dem Logo auf den Vogelantennen. Diese sind von [[Königskron]]. [[Markus 'Tom' Thomas]] Eltern haben am Frühstückstisch etwas erwähnt, und mussten deshalb sehr früh ins Geschäft.
